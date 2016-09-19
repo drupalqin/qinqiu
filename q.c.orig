@@ -1,0 +1,6 @@
+first line
+<<<<<<< HEAD
+abc second line
+=======
+master second line
+>>>>>>> master

@@ -1,2 +1,2 @@
 first line
-abc second line
+master second line
