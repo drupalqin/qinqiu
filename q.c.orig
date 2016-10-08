@@ -1,6 +1,14 @@
 first line
-<<<<<<< HEAD
-abc second line
-=======
 master second line
->>>>>>> master
+
+<<<<<<< HEAD
+
+
+
+
+
+
+master random line
+=======
+good abc line random
+>>>>>>> abc
